@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hello_world",
-    "slug": "hello_world",
+    "name": "xii-rpl5-541211179-zaki-farhan-rifai-my-app-",
+    "slug": "snack-49a7b9e3-67fe-4aa8-a5fe-f2a9a7adb6d4",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.zakifarhanrifai.snack49a7b9e367fe4aa8a5fef2a9a7adb6d4"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c4394dd1-f25b-49dd-a990-385965e292b8"
+      }
     }
   }
 }
